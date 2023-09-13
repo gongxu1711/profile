@@ -43,10 +43,10 @@ const Hero = () => {
         <div className="flex flex-col h-5/6">
           <div>
             <h1 className="font-black text-white lg:text-[60px] sm:text-[40px] xs:text-[30px] text-[20px] lg:leading-[98px] mt-2">
-              Hi, I'm <span className="text-[#915eff]">Zuong</span>
+              Hi, I'm <span className="text-[#915eff]">Tu</span>
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-              I develop web applications, <br className="sm:block hidden" /> Cloud services and Blockchain Web3.0
+              I love to explore the dynamic world of data, <br className="sm:block hidden" /> Cloud services and Financal Analysis
             </p>
             <a
               href={cv}

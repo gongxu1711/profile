@@ -39,11 +39,11 @@ const About = () => {
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I'm a student at Hanoi University of Science and Technology (HUST) and a
-        software developer with experience in TypeScript and JavaScript, and
-        expertise in frameworks like React and Node.js. I'm a quick learner and
-        always eager to improve my skills to build efficient, scalable, and
-        user-friendly websites that solve real-world problems!
+        I'm a student at Academy Of Finance (AOF) who is eager to explore the dynamic 
+        world of data and its applications in business analysis and data analysis. 
+        My academic journey has equipped me with a strong foundation in data science 
+        and analytical skills, and I am excited to embark on a new chapter 
+        where I can apply my knowledge and contribute to meaningful projects!
       </motion.p>
 
       <motion.div

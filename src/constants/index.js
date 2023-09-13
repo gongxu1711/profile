@@ -49,38 +49,38 @@ export const navLinks = [
 ];
 
 export const basicInfo = [
-  { name: 'Birthday', value: '7 May 2001' },
-  { name: 'Website', value: 'https://www.linkedin.com/in/zuongnh/' },
+  { name: 'Birthday', value: '17 December 2001' },
+  { name: 'Website', value: 'https://www.linkedin.com/in/ncongtu/' },
   { name: 'Degree', value: 'University' },
   { name: 'City', value: 'Hanoi' },
   { name: 'Age', value: '22' },
-  { name: 'Email', value: 'muoi07052001@gmail.com' },
-  { name: 'Phone', value: '+84 339410781' },
-  { name: 'Freelance', value: 'Available' },
+  { name: 'Email', value: 'nguyencongtu57.it@gmail.com' },
+  { name: 'Phone', value: '+84 347495431' },
+  { name: 'Job', value: 'Data Management Collaborator' },
 ];
 
 export const skillProgressBar = [
-  { name: 'Frontend', percentage: '80' },
-  { name: 'Backend', percentage: '70' },
-  { name: 'Deployment', percentage: '65' },
-  { name: 'Blockchain', percentage: '65' },
+  { name: 'SQL', percentage: '70' },
+  { name: 'Power BI/Looker studio', percentage: '70' },
+  { name: 'Python', percentage: '40' },
+  { name: 'AWS', percentage: '30' },
 ];
 
 const services = [
   {
-    title: 'Web Developer',
+    title: 'Data Analyst',
     icon: web,
   },
   {
-    title: 'Frontend Developer',
+    title: 'Data Engineer',
     icon: mobile,
   },
   {
-    title: 'Backend Developer',
+    title: 'Data Management',
     icon: backend,
   },
   {
-    title: 'Web3 Developer',
+    title: 'Data Design',
     icon: creator,
   },
 ];
@@ -138,44 +138,45 @@ const technologies = [
 
 const experiences = [
   {
-    title: 'Fullstack Next.js Developer',
-    company_name: 'Jobufea',
+    title: 'Implementation Techniques Intern',
+    company_name: 'Bravo Software Join Stock Company',
     icon: jobufea,
     iconBg: '#383E56',
-    date: 'Oct 2021 - Mar 2023',
+    date: 'Dec 2022 - Apr 2023',
     points: [
-      'Developing and maintaining web applications using Next.js and other related technologies.',
-      'Coding APIs for the web application using Nest.js and other related technologies.',
-      'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
-      'Implementing responsive design and ensuring server running efficiently.',
+      'Using SQL to create functional and procedural.',
+      'Offering solutions for Business Intelligence (BI) systems.',
+      'Building, creating dashboard and report using Excel, Power BI, Looker Studio from multiple data sources (Excel, Google Analytics 4, Firebase, Google Cloud Big query...).',
+      'Collaborate with Dev team to name, define and attach events to software buttons to track users.',
     ],
   },
   {
-    title: 'Fullstack Web Developer',
-    company_name: 'BTCs',
+    title: 'BI Developer Collaborator',
+    company_name: 'MB Ageas Life - IT Governance',
     icon: btcs,
     iconBg: '#E6DEDD',
-    date: 'Feb 2022 - Feb 2023',
+    date: 'Apr 2023 - Aug 2023',
     points: [
-      'Developing Frontend and Backend of Call Center web applications using React.js, Nest.js and other related technologies.',
-      'Participating in designing UI/UX for the web applications',
-      'Designing and developing IVR (Interactive Voice Response) features using Rete.js',
-      'Participating in code reviews and providing constructive feedback to other developers.',
+      'Build automatic reports using power BI for administrative purposes such as human resources and outsourcing management.',
+      'Develop descriptive analysis reports for budget & expenses management, IT Project Quality Management, Portfolio management...',
+      'Centralize data from multiple source to sharepoint, ETL and build data model (Star Schema) in Power BI',
+      'Use python to automatically get data from SAP system.',
     ],
   },
   {
-    title: 'Blockchain Developer',
-    company_name: 'BTCs',
-    icon: btcs,
-    iconBg: '#E6DEDD',
-    date: 'May 2022 - Feb 2023',
+    title: 'Data Management Collaborator',
+    company_name: 'VPBank - Enterprise Data & Analytics Divison',
+    icon: nearhub,
+    iconBg: '#383E56',
+    date: 'Aug 2023 - Currently',
     points: [
-      'Developing and maintaining blockchain web3 NFT game using React.js and other related technologies.',
-      'Developing Smart Contract for the web3 NFT game using Solidity',
-      'Participating in designing feature specifications for the NFT game',
-      'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
+      'Together with BA, analyze requirements from Business Unit to clarify requirements.',
+      'High level System of Record (9 concepts IBM)',
+      'Design data from Data source to System of record',
+      'Mapping data from System of Record to Interface Concept, Inteface BU, Data Mart...',
     ],
   },
+  /*
   {
     title: 'Blockchain Developer',
     company_name: 'Nearhub',
@@ -188,37 +189,38 @@ const experiences = [
       'Participating in designing feature specifications for the NFT game',
       'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
     ],
-  },
+  },*/
 ];
 
 const testimonials = [
   {
     testimonial:
-      'Duong is such a talented person and is one of the students with the highest score at our university.',
-    name: 'Hien Hoang',
-    designation: 'Student',
-    company: 'HUST',
+      'Tu is really a smart guy with impressive technical and analytical skill have been demonstrated throughout all the time I worked with him.',
+    name: 'Christopher Vu Nguyen',
+    designation: 'Management Associate',
+    company: 'Techcombank (TCB)',
     image: hien,
   },
   {
     testimonial:
-      'I really appreciate Duong for his extremly hard-working and spirit when doing internship at my company',
-    name: 'Long Nguyen',
-    designation: 'CTO',
-    company: 'BTCs',
+      'I really appreciate Tu for his extremly hard-working and spirit when doing internship at my company',
+    name: 'Thuy Trinh',
+    designation: 'Information Technology Governance Manager',
+    company: 'MB Ageas Life',
     image: long,
   },
   {
     testimonial:
-      'Duong is a dedicated person who always willing to learn, practice and build. And he still has a long way ahead',
-    name: 'Quang Dang',
-    designation: 'CTO',
-    company: 'Jobufea',
+      'Tu is a dedicated person who always willing to learn, practice and build. And he still has a long way ahead',
+    name: 'Hoang Vy',
+    designation: 'BA',
+    company: 'MB Ageas Life',
     image: quang,
   },
 ];
 
 const projects = [
+  /*
   {
     name: 'Booking App',
     description:
@@ -363,6 +365,7 @@ const projects = [
     source_code_enable: true,
     live_enable: true,
   },
+  */
 ];
 
 export { services, technologies, experiences, testimonials, projects };
