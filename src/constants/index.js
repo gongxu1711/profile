@@ -56,7 +56,7 @@ export const basicInfo = [
   { name: 'Age', value: '22' },
   { name: 'Email', value: 'nguyencongtu57.it@gmail.com' },
   { name: 'Phone', value: '+84 347495431' },
-  { name: 'Job', value: 'Data Management Collaborator' },
+  { name: 'English', value: '835 Toeic' },
 ];
 
 export const skillProgressBar = [
@@ -220,152 +220,150 @@ const testimonials = [
 ];
 
 const projects = [
-  /*
   {
-    name: 'Booking App',
+    name: 'IT Budget & Expense Dashboard',
     description:
-      'Web-based platform that allows users to search and book hotels and manage booking history from various hotel providers, providing a convenient and efficient solution for travelling needs.',
+      'A report serves to estimate budget and costs to take timely actions for overdue or over budget items.',
     tags: [
       {
-        name: 'reactjs',
+        name: 'powerbi',
+        color: 'yellow-text-gradient',
+      },
+      {
+        name: 'python',
         color: 'blue-text-gradient',
       },
       {
-        name: 'mongodb',
-        color: 'green-text-gradient',
-      },
-      {
-        name: 'Module scss',
+        name: 'saplogon',
         color: 'pink-text-gradient',
       },
     ],
     image: bookingapp,
     source_code_link: 'https://github.com/dylan751/booking-app-front-end',
-    live_link: 'https://booking-app-front-end.vercel.app/',
-    source_code_enable: true,
-    live_enable: true,
-  },
-  {
-    name: 'Japanese Job IT',
-    description:
-      'Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs in Japan.',
-    tags: [
-      {
-        name: 'nextjs',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'mysql',
-        color: 'green-text-gradient',
-      },
-      {
-        name: 'Module scss',
-        color: 'pink-text-gradient',
-      },
-    ],
-    image: jobit,
-    source_code_link: 'https://github.com/dylan751',
-    live_link: 'https://jobufea.com',
+    live_link: 'https://app.powerbi.com/view?r=eyJrIjoiNDNjZjQxZDAtNjlhYi00MjU2LWJkZGEtMGI5OTc3NGJiYTNiIiwidCI6IjdjNDllNjY0LTcxOGYtNDU1ZS04ZGZkLTA4YjcyMTFkMTA4ZCIsImMiOjEwfQ%3D%3D',
     source_code_enable: false,
     live_enable: true,
   },
   {
-    name: 'Travel Page',
+    name: 'Sales Analysis Dashboard',
     description:
-      'A comprehensive travel booking platform that allows users to book hotels, buy essential travelling products, and offers curated recommendations for popular destinations.',
+      'Analytical dashboard describes the business situation at businesses with retail industries and and analyze dimensions further.',
     tags: [
       {
-        name: 'nextjs',
+        name: 'powerbi',
+        color: 'yellow-text-gradient',
+      },
+      {
+        name: 'sqlsever',
         color: 'blue-text-gradient',
       },
       {
-        name: 'postgresql',
+        name: 'sharepoint',
         color: 'green-text-gradient',
       },
+    ],
+    image: jobit,
+    source_code_link: 'https://github.com/dylan751',
+    live_link: 'https://app.powerbi.com/view?r=eyJrIjoiOTk3MjBmYTctNTY0Ny00MTViLWE4OWQtY2Q0OGRhYTgwMmUwIiwidCI6IjdjNDllNjY0LTcxOGYtNDU1ZS04ZGZkLTA4YjcyMTFkMTA4ZCIsImMiOjEwfQ%3D%3D',
+    source_code_enable: false,
+    live_enable: true,
+  },
+  {
+    name: 'Check-in Management Dashboard',
+    description:
+      'Dashboard with the purpose of managing check-in levels of personnel both internally and os to help ensure accuracy in human resource management.',
+    tags: [
       {
-        name: 'Module scss',
+        name: 'powerbi',
+        color: 'yellow-text-gradient',
+      },
+      {
+        name: 'mysql',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'powerautomate',
         color: 'pink-text-gradient',
       },
     ],
     image: travelpage,
     source_code_link: 'https://github.com/dylan751/db-travel-page-project',
-    live_link: 'https://db-travel-page-project.vercel.app/',
-    source_code_enable: true,
-    live_enable: false,
+    live_link: 'https://app.powerbi.com/view?r=eyJrIjoiMjg0OGRkMjAtNGM3NS00MDk5LWJmZjgtYWZjYzMwNTE2YTg2IiwidCI6IjdjNDllNjY0LTcxOGYtNDU1ZS04ZGZkLTA4YjcyMTFkMTA4ZCIsImMiOjEwfQ%3D%3D',
+    source_code_enable: false,
+    live_enable: true,
   },
   {
-    name: 'Call Center',
+    name: 'Automate Extract Data from SAP System',
     description:
-      'Web-based platform that allows users to search and manage call history from various contact providers, providing a convenient and efficient solution for setup calling options.',
+      'Python scripts convert VBA scripts to python to build program auto extract data from SAP system.',
     tags: [
       {
-        name: 'reactjs',
+        name: 'python',
         color: 'blue-text-gradient',
       },
       {
-        name: 'postgresql',
+        name: 'saplogon',
         color: 'green-text-gradient',
       },
       {
-        name: 'tailwind',
+        name: 'vba',
         color: 'pink-text-gradient',
       },
     ],
     image: callcenter,
-    source_code_link: 'https://github.com/dylan751/',
-    live_link: 'https://ccp.ast-dev.ai-studio-work.net',
-    source_code_enable: false,
-    live_enable: false,
+    source_code_link: 'https://github.com/gongxu1711/AutoExtractDataSAP',
+    live_link: 'https://www.youtube.com/watch?v=UIOENw7VjYw&t=22s',
+    source_code_enable: true,
+    live_enable: true,
   },
   {
-    name: 'Near NFT Marketplace',
+    name: 'Portfolio Management Dashboard',
     description:
-      'The Blockchain Game Crowdfunding Platform integrated with NFT Marketplace built on NEAR Protocol Blockchain using Rust SDK and ReactJS',
+      'Manage IT Project with details milestones and key deliverable with grantt chart and follow time series analysis',
     tags: [
       {
-        name: 'near',
-        color: 'blue-text-gradient',
+        name: 'powerbi',
+        color: 'yellow-text-gradient',
       },
       {
-        name: 'rust',
+        name: 'excel',
         color: 'green-text-gradient',
       },
       {
-        name: 'blockchain',
-        color: 'pink-text-gradient',
+        name: 'sharepoint',
+        color: 'blue-text-gradient',
       },
     ],
     image: nftmarketplace,
     source_code_link: 'https://github.com/dylan751/nearhub-marketplace',
-    live_link: 'https://testnet.nearhub.io/',
-    source_code_enable: true,
-    live_enable: false,
+    live_link: 'https://app.powerbi.com/view?r=eyJrIjoiMmZjMDk2MDAtZGY2Mi00MjgzLThiY2QtMTE4MjlhZWY5ZjAyIiwidCI6IjdjNDllNjY0LTcxOGYtNDU1ZS04ZGZkLTA4YjcyMTFkMTA4ZCIsImMiOjEwfQ%3D%3D',
+    source_code_enable: false,
+    live_enable: true,
   },
   {
-    name: 'Personal Portfolio',
+    name: 'RPA Project Tracking Dashboard',
     description:
-      'My Portfolio Website built with Vite and Three.js. It is where I show my background, skills, interests and share my projects to everyone',
+      'Dashboard for caculate cummulate FTEs and Mandays released by Robotic Process Automation',
     tags: [
       {
-        name: 'vite',
-        color: 'blue-text-gradient',
+        name: 'powerbi',
+        color: 'yellow-text-gradient',
       },
       {
-        name: 'tailwind',
+        name: 'excel',
         color: 'green-text-gradient',
       },
       {
-        name: 'threejs',
-        color: 'pink-text-gradient',
+        name: 'python',
+        color: 'blue-text-gradient',
       },
     ],
     image: portfolio,
     source_code_link: 'https://github.com/dylan751/portfolio',
-    live_link: 'https://portfolio-seven-ashen-81.vercel.app/',
-    source_code_enable: true,
+    live_link: 'https://app.powerbi.com/view?r=eyJrIjoiYmY5OTg2NjUtN2ZjMy00ZmIwLTliOGEtMDA1NDNmYzI2YTMxIiwidCI6IjdjNDllNjY0LTcxOGYtNDU1ZS04ZGZkLTA4YjcyMTFkMTA4ZCIsImMiOjEwfQ%3D%3D',
+    source_code_enable: false,
     live_enable: true,
   },
-  */
 ];
 
 export { services, technologies, experiences, testimonials, projects };
