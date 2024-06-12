@@ -39,11 +39,9 @@ const About = () => {
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I'm a student at Academy Of Finance (AOF) who is eager to explore the dynamic 
-        world of data and its applications in business analysis and data analysis. 
-        My academic journey has equipped me with a strong foundation in data science 
-        and analytical skills, and I am excited to embark on a new chapter 
-        where I can apply my knowledge and contribute to meaningful projects!
+        I am working in the data domain, building on my education from the Academy Of Finance (AOF)
+        . My academic journey and professional experience have equipped me with a strong foundation in data science and analytical skills
+        . I am excited to continue applying my knowledge and contributing to meaningful projects in business and data analysis.
       </motion.p>
 
       <motion.div

@@ -8,7 +8,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/dylan751/portfolio">
+  <a href="https://github.com/gongxu1711/profile">
   </a>
 
 <h3 align="center">Portfolio</h3>
@@ -16,14 +16,14 @@
   <p align="center">
     My portfolio app
     <br />
-    <a href="https://github.com/dylan751/portfolio"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/gongxu1711/profile"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/dylan751/portfolio">View Repo</a>
+    <a href="https://github.com/gongxu1711/profile">View Repo</a>
     ·
-    <a href="https://github.com/dylan751/portfolio/issues">Report Bug</a>
+    <a href="https://github.com/gongxu1711/profile/issues">Report Bug</a>
     ·
-    <a href="https://github.com/dylan751/portfolio/issues">Request Feature</a>
+    <a href="https://github.com/gongxu1711/profile/issues">Request Feature</a>
   </p>
 </div>
 
@@ -56,7 +56,7 @@
 
 ## About The Project
 
-<p>Live domain: <strong>https://portfolio.vercel.app/</strong></p>
+<p>Live domain: <strong>https://congtu-profile.netlify.app/</strong></p>
 
 <img src="src/assets/portfolio.png" />
 
@@ -94,7 +94,7 @@ Things you need to use the software and how to install them.
 
 2. Clone the repo
    ```sh
-   git clone https://github.com/dylan751/portfolio.git
+   git clone https://github.com/gongxu1711/profile.git
    ```
 3. Install packages and dependencies (yarn)
    ```sh
@@ -147,7 +147,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 - [x] Contacts
 - [ ] Blogs
 
-See the [open issues](https://github.com/dylan751/portfolio/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/gongxu1711/profile/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
@@ -172,9 +172,9 @@ Don't forget to give the project a star! Thanks again!
 
 ## Contact
 
-Nguyen Hai Duong - [@facebook_handle](https://www.facebook.com/duong.nguyenhai.7140/) - muoi07052001@gmail.com
+Nguyen Hai Duong - [@facebook_handle](https://www.facebook.com/tutggggg/) - nguyencongtu57.it@gmail.com
 
-Project Link: [https://github.com/dylan751/portfolio](https://github.com/dylan751/portfolio)
+Project Link: [https://github.com/dylan751/portfolio](https://github.com/gongxu1711/profile)
 
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
 

@@ -49,11 +49,11 @@ export const navLinks = [
 ];
 
 export const basicInfo = [
-  { name: 'Birthday', value: '17 December 2001' },
+  { name: 'Birthday', value: '17 November 2001' },
   { name: 'Website', value: 'https://www.linkedin.com/in/ncongtu/' },
   { name: 'Degree', value: 'University' },
   { name: 'City', value: 'Hanoi' },
-  { name: 'Age', value: '22' },
+  { name: 'Age', value: '23' },
   { name: 'Email', value: 'nguyencongtu57.it@gmail.com' },
   { name: 'Phone', value: '+84 347495431' },
   { name: 'English', value: '835 Toeic' },
@@ -80,7 +80,7 @@ const services = [
     icon: backend,
   },
   {
-    title: 'Data Design',
+    title: 'Data Ops',
     icon: creator,
   },
 ];
@@ -138,24 +138,26 @@ const technologies = [
 
 const experiences = [
   {
-    title: 'Implementation Techniques Intern',
-    company_name: 'Bravo Software Join Stock Company',
+    title: 'Business Intelligence Consultant',
+    company_name: 'DrB Vietnam Finance Management Consultant Company',
     icon: jobufea,
-    iconBg: '#383E56',
-    date: 'Dec 2022 - Apr 2023',
+    iconBg: '#FFFFFF',
+    date: 'Jan 2022 - Jan 2023',
     points: [
-      'Using SQL to create functional and procedural.',
+      'Building, creating dashboard and report using Excel, Power BI from multiple data sources (Excel, SQL Server, Sharepoint, Web API, Google Analytics 4, Firebase, Google Cloud Big query...)',
       'Offering solutions for Business Intelligence (BI) systems.',
-      'Building, creating dashboard and report using Excel, Power BI, Looker Studio from multiple data sources (Excel, Google Analytics 4, Firebase, Google Cloud Big query...).',
-      'Collaborate with Dev team to name, define and attach events to software buttons to track users.',
+      'Research and developing Business Intelligence (BI) system',
+      'Implementing and consulting BI report system for other company and help them spend less time making report (sales report, financial report, marketing report…).',
+      'Collect data from multiple sources such as MISA, AMIS, AUGGES, KiotViet, FaceBook, YouTube,... and pull into Power BI',
+      'Build automate BI flow with Power Automate',
     ],
   },
   {
-    title: 'BI Developer Collaborator',
-    company_name: 'MB Ageas Life - IT Governance',
+    title: 'Power BI Developer',
+    company_name: 'MB Ageas Life',
     icon: btcs,
-    iconBg: '#E6DEDD',
-    date: 'Apr 2023 - Aug 2023',
+    iconBg: '#FFFFFF',
+    date: 'Jan 2023 - Jul 2023',
     points: [
       'Build automatic reports using power BI for administrative purposes such as human resources and outsourcing management.',
       'Develop descriptive analysis reports for budget & expenses management, IT Project Quality Management, Portfolio management...',
@@ -164,16 +166,16 @@ const experiences = [
     ],
   },
   {
-    title: 'Data Management Collaborator',
+    title: 'Data Engineer',
     company_name: 'VPBank - Enterprise Data & Analytics Divison',
     icon: nearhub,
-    iconBg: '#383E56',
-    date: 'Aug 2023 - Currently',
+    iconBg: '#FFFFFF',
+    date: 'Jul 2023 - Currently',
     points: [
-      'Together with BA, analyze requirements from Business Unit to clarify requirements.',
-      'High level System of Record (9 concepts IBM)',
-      'Design data from Data source to System of record',
-      'Mapping data from System of Record to Interface Concept, Inteface BU, Data Mart...',
+      'Analyze requirements from Business Unit, Risk, Fin to clarify requirements, Mapping data among layers of data warehouse.',
+      'ETL data with IBM DataStage, DB2, Oracle, SQL Server, Trino, Apache Nifi...',
+      'Deploying management reports of developing projects with Power BI',
+      'Develop an ETL Process Using SQL to Store Data in SCD Types 0, 1, 2...',
     ],
   },
   /*
